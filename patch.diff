@@ -1,0 +1,78 @@
+From 371e48af17c517f0278a2c9a5549048d23a31a9a Mon Sep 17 00:00:00 2001
+From: unknown <JaniH@S-KY-ITAL03.saiedu.fi>
+Date: Wed, 15 Apr 2015 12:53:43 +0300
+Subject: [PATCH] no message
+
+---
+ .actionScriptProperties |   1 +
+ bin-debug/Main.swf      | Bin 699 -> 697 bytes
+ src/MainMenu.as         |  12 ++++++++++++
+ 3 files changed, 13 insertions(+)
+ create mode 100644 src/MainMenu.as
+
+diff --git a/.actionScriptProperties b/.actionScriptProperties
+index ea02b2c..4dad491 100644
+--- a/.actionScriptProperties
++++ b/.actionScriptProperties
+@@ -38,3 +38,4 @@
+   <buildCSSFiles/>
+   <flashCatalyst validateFlashCatalystCompatibility="false"/>
+ </actionScriptProperties>
++
+diff --git a/bin-debug/Main.swf b/bin-debug/Main.swf
+index e4a2d3dc1d6e605c6b8a89630d0c77d498157c4d..651689bf2ffbcbac4aa8d18d94a634ce7f706592 100644
+GIT binary patch
+literal 697
+zcmV;q0!IBqS5prD0{{Sc0bNo-ZxTTip4o+6z?M>LuuU`}@xZ0*F4USpDX}T7)@W-a
+zM$<sZusaKDmz~YdQ0U3u;>DZ)z{Ha$FZ>2i9`P5{H%nVuCp)uw-}}BVZ{C{;O8iDB
+z`xT*ejGC((2%*nwzc51e$Z>1$numqS&<}VGqTS*^h_Ggw<MG%SZy7A=o8@Y?YFZVu
+zQYitW#4iFtCZ&KsDK=t*CgpbIg~DS&K^l@C8;RXw@ygY)Z%o5c<j0ndZBm~OX&|^+
+zHp*b+*fp0$Ln0a^41Lcg($1We_<-4GV{%SQu21-&ZZ3#YBRt{L#-77^v~cLtN#SW>
+zZ=sLbbBZK8i$WW>u1TcYu-VWIBj${3sL2JZSbSR|Ey7XH_xONDjZttGuyGKx7O3Rd
+z5ha4%Wn5!2?~|ZEB7NF8IF8jfaa<!2aGx+Ll(#nv6|1~GFGHerQ+D@Ox33TwU;|}y
+zqmAQ}(%ZdO>%+;rCYr9ml<%x&?vGkW`^x3z<!MHRlm<JYeL0=8W@7UFHN1(RnK#4>
+z(2ob-Ab=0WVGbFRc0UnEoBOr)drl+XenkTBWgBWb6D(}EF1T?>JipB&duK;d4Z_p%
+zZ^~mi9--lQJoL$h)(Rs}Q0=7miP~c2;2d5<6H-Lj(BGvwmr9f`OB^I~>grJ-Xhdw`
+zozppzzmwl*@IbwQMvuDPKI;nBwP74xhq_+i$!FCaP(M^d#?`X5_3)bXUtW1;X-S+{
+z^2v3aPotEsU|rR8Mc0!lUCrp~JzZUbHY(7T1Z)K<%Q(A|!`W4gm2@KR9ab=IV#r|?
+zVVp{<Q|kqE72|X!`&XUmQ)`x*9-&zVPzAWD>eK=}Nl{02RjZS56ILhbCasR<YF0;g
+fb*rPeN_>1okK;AKpisdey>>IM=TOi;tl%j@SW8yJ
+
+literal 699
+zcmV;s0z~~oS5prE0{{Sc0bNqTZqq;z-L(@t32mBE6j}+SNE~t@wv$q%q^U(!w@^@9
+z)Chs9MA2rwPD~x!@~)fo#J6zaz=coX#Dxp_22Q;ZzM$+nZPQ|T*P1u)J&k8(3{t-V
+z$bSJ~6#{E{4FK?I<tGH78QD(b*xD<Nhn`OxJlZM`7z-P^J{pa*(Yh8yeZ5+**L9<&
+z*J>5csL*qtp>f5hPs(OuU=fNVH)L+$mxLke1u@$ym#<uHd}A8Mk(XH7SSKDC5}#4M
+zs#Up>jT=r74G}X@7<w*7!cHGo=pewSBXmY8j)&-=sn3Z*!(8SObK4Gjq_pReap_rU
+zd#+E|Gm0SF^FqyAzlnre!@*Dwqri?augT$7iTJieScGxUbLoIYX6&E(!N^Zob5w9}
+zL=X$^GOjU^_mJO@QJ<K*hl%<oPHIGqm<K2-Z9Fa2jOxa$3IR5C(cD|jzC!r?Opq_c
+zYllabx7)4O`=etEOqTeN?>tuFLT-W`>GJaOBq#Hf!cR*1d@^JG`t$YT4PS{LxdY_-
+z;QNDbJm4=#!UE6)?S3kWw4Fx#9VHQMzec|Ms%-^0PG;F|ol|WOxn7$_cym*bHAJ)G
+ztBY$fnW1L8H1yE9(h4J&5#^}&kzls8d&bwn;wi*1Z}7s5O9V<61<oZi>hiwNNQ5wR
+z&&UiZ-pTI-d_!HIM31`Ne$Zt>7xQ^^ZQ{7TEB2~8AYLek0hO!9`on9|e|hP-p`>9^
+zDyCOqF$*%P1XWp4B~?vlR5_>0_f&a-H&Wt_N%12AX%Xg^3NXJ6p_EM}-GdT@7UVf7
+z0|+x&d1AceeT6Wa%m0<9>cp64Ci`HT<EX^Bnfk=wc$$EY?8rtZ<)n;G+DRK7#Zioo
+h>ZnFXa-`(?03IjL0CI)Q4YDgY1AD;>`Ul4QDxboYR{a0~
+
+diff --git a/src/MainMenu.as b/src/MainMenu.as
+new file mode 100644
+index 0000000..6e617c3
+--- /dev/null
++++ b/src/MainMenu.as
+@@ -0,0 +1,12 @@
++package
++{
++	import flash.display.Sprite;
++	
++	public class MainMenu extends Sprite
++	{
++		public function MainMenu()
++		{
++			super();
++		}
++	}
++}
+\ No newline at end of file
+-- 
+1.8.3.msysgit.0
+
